@@ -1,17 +1,35 @@
+/*
+Color Pallet
+1st #40817B light teal
+2nd #E1D7E3 light purple
+3rd #694A40 brown background
 
-div {
-	background; red:
+*/
+
+body {
+	background: url("../img/bg2.png");
+	font-family: 'Kite One', sans-serif;
 }
 
-header {
-	background: green;
+h1, h3 {
+	background: #40817B;
+	font-family: 'Kite One', sans-serif; 
+	text-transform: uppercase;
+	border-bottom: 10px solid black;
 }
 
-nav {
-	background: red;
+h3 {
+	padding; 0 0 10px 0
 }
 
+img {
+	box-shadow: 0 0 20px #253
+}
 
+.container_12 {
+	background: rgba(255,255,255,.25);
+
+}
 
 
 
